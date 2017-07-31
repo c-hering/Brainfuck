@@ -1,0 +1,14 @@
+﻿Build started 7/30/2017 10:07:30 PM.
+     1>Project "c:\Users\Caleb\documents\visual studio 2015\Projects\Brainfuck\Brainfuck\Brainfuck.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         A:\VisualStudio\VC\bin\CL.exe /c /I"../Header Files/header.h" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         A:\VisualStudio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\caleb\documents\visual studio 2015\Projects\Brainfuck\Debug\Brainfuck.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"c:\users\caleb\documents\visual studio 2015\Projects\Brainfuck\Debug\Brainfuck.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\caleb\documents\visual studio 2015\Projects\Brainfuck\Debug\Brainfuck.lib" /MACHINE:X86 Debug\asciiHandler.obj
+         Debug\Source.obj
+         Brainfuck.vcxproj -> c:\users\caleb\documents\visual studio 2015\Projects\Brainfuck\Debug\Brainfuck.exe
+     1>Done Building Project "c:\Users\Caleb\documents\visual studio 2015\Projects\Brainfuck\Brainfuck\Brainfuck.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.00
