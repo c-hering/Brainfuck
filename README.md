@@ -1,5 +1,5 @@
-# Brainfuck
-HAHAHA :: My main C++ freeform programming project:: AHAHAH
+
+### My main C++ freeform programming project
 
 	credits: http://www.chris.com/ascii/index.php?art=cartoons/simpsons , http://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=Brainfuck
                                . .  ,  , 
